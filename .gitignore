@@ -1,4 +1,4 @@
 /.idea/
 /target
 /*.log
-src/main/resources/*.properties
+src/main/resources/application.properties
